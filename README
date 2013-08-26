@@ -1,0 +1,4 @@
+This is a boilerplate code which I use for building applications on top of Google AppEngine (Python runtime)
+
+The code is based on webapp2 framework and jinja2 templates which are available by default in the runtime.
+The code also defines User session configurations which can be extended as per needs.
